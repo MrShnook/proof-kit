@@ -23,10 +23,15 @@ Testimonial.to, Senja, Shoutout, Boast all focus on **collection + display**. No
 - Agency ($39/mo): Multi-client, white-label, team access
 
 ## Stage
-🔍 Researching — validating market, sizing, competitive gaps, and technical feasibility.
+🔨 Prototyping — research complete (BUILD verdict, 8/10 confidence). Working on brand naming, design, and MVP.
 
 ## Key Decisions
-*(None yet — research phase)*
+
+### 2026-04-01: "ProofKit" name is taken
+The name "ProofKit" is already used by an existing open-source TypeScript toolkit (proofkit.dev). We need to rename before proceeding with branding/design. See `docs/research/brand-naming-research.md` for shortlist. Top recommendation: **ProofBloom** (proofbloom.com available).
+
+### 2026-04-01: Research phase complete
+All 8 research tasks completed. Verdict: BUILD with 8/10 confidence. Zero competitors do asset transformation from testimonials. $630M SAM. 97-99% margins. Break-even at 5 paying users.
 
 ---
 *Last updated: 2026-04-01*
